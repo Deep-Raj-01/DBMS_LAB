@@ -1,0 +1,32 @@
+Course_ID,Course_Name,Credits,Dept_ID,Faculty_ID
+621,"Machine Learning",4,157,523
+622,"Computer Networks",4,157,523
+623,"Artificial Intelligence",4,157,523
+100502,"Control Systems",4,110,514
+100506,"Power Electronics",4,110,516
+100507,"Power Systems I",4,110,515
+100508,"Professional Skill Development",2,105,520
+100512,"Design Thinking",3,118,527
+101502,"Environmental Engineering I",4,101,509
+101503,"Geotechnical Engineering I",4,101,506
+101504,"Hydrology and Water Resources",4,101,508
+101505,"Hydraulic Engineering",4,101,509
+101506,"Mechanics of Materials",4,101,508
+101507,"Transportation Engineering",4,101,507
+102501,"Fluid Machinery",4,102,501
+102502,"Heat Transfer",4,102,505
+102503,"Manufacturing Processes",4,102,502
+102504,"Kinematics of Machinery",4,102,503
+105501,"Artificial Intelligence",4,105,518
+105502,"Database Management Systems",4,105,519
+105503,"Formal Language and Automata",4,105,523
+105504,"Software Engineering",4,105,522
+110501,"Analog and Digital",4,110,513
+118501,"3D Modelling",4,118,526
+118502,"3D Character Design",4,118,526
+118503,"3D Texturing",4,118,526
+119501,"Machine Learning",4,119,525
+119502,"Hydraulic Engineering",4,119,509
+119504,"Geotechnical Engineering I",4,119,506
+119506,"Environmental Engineering I",4,119,509
+119507,"Transportation Engineering",4,119,507
